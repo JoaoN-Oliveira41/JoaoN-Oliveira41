@@ -15,6 +15,6 @@ Pelas últimas eras, tenho estudado <a href="https://nodejs.org/en/">Node</a>, <
 
 <br>
 <p align="center">
-<a href="https://github.com/JoaoN-Oliveira41.png"></a>
+<img href="https://github.com/JoaoN-Oliveira41.png"></a>
 </p>
 <br>
