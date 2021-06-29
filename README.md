@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/images/e90e6ced05e7e96a17cf66866b4031cd/tenor.gif?itemid=16368928">
    <br><br>
   <samp>
-    👋 Oba, sou Dev Back End, tudo bom??
+    👋 Olá, sou Dev Back End, tudo bom??
   </samp>
   
 </p>
