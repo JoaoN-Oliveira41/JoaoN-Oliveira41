@@ -15,7 +15,7 @@ Pelas últimas eras, tenho estudado <a href="https://nodejs.org/en/">Node</a>, <
 
 <br>
 <p align="center">
-<img href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoN-Oliveira41)](https://github.com/JoaoN-Oliveira41/github-readme-stats)
+<img href="https://github-readme-stats.vercel.app/api?username=JoaoN-Oliveira41&show_icons=true&theme=dark">
 "></a>
 </p>
 <br>
