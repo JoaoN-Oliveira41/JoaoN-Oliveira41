@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/images/e90e6ced05e7e96a17cf66866b4031cd/tenor.gif?itemid=16368928 width="px">
+  <div class="tenor-gif-embed" data-postid="16368928" data-share-method="host" data-width="100%" data-aspect-ratio="2.083682008368201"><a href="https://tenor.com/view/dark-souls-bonfire-rest-warm-gif-16368928">Dark Souls Bonfire GIF</a> from <a href="https://tenor.com/search/darksouls-gifs">Darksouls GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
    <br><br>
   <samp>
     👋 Oba, sou Dev Back End, tudo bom??
