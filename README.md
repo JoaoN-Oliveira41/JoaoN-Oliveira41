@@ -15,6 +15,6 @@ Pelas últimas eras, tenho focado em estudar <a href="https://nodejs.org/en/">No
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoN-Oliveira41&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaonoliveira4&show_icons=true&theme=dark"/>
 </p>
 <br>
