@@ -9,7 +9,7 @@
 
 
 <p align="center" style="text-align: center;">
-Bom, sou João, atualmente tenho 18 anos e sou um entusiasta de tecnologias Javascript.<br>
+Bom, sou João, atualmente tenho 18 anos e sou um iniciante na arte do desenvolvimento de IA.<br>
 Pelas últimas eras, tenho focado em estudar <a href="https://nodejs.org/en/">Node</a>, <a href="https://www.python.org/">Python</a> e <a href="https://www.typescriptlang.org/">Typescript</a>.
 </p>
 
